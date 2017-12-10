@@ -1,4 +1,4 @@
 # Sample Website
 
 This is a sample website made as part of [*Learn Enough™ HTML to Be
-Dangerous*](http://learnenough.com/git-tutorial)
+Dangerous*](https://www.learnenough.com/course/learn_enough_html/html)
